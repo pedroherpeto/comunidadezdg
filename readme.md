@@ -17,6 +17,6 @@ Conheça o canal do Zap das Galáxias:
 - Ler o QRCode na tela
 
 
-## Conheça a Comunidade ZDGe
+## Conheça a Comunidade ZDG
 
-Garanta sua renda extra explorando todo o poder da API do WhatsApp de graça, mesmo que você nao seja programador, clicando no link <a href="https://zapdasgalaxias.com.br">Zap das Galáxias</a>. Obrigado =)
+🤑 Garanta sua renda extra explorando todo o poder da API do WhatsApp de graça, mesmo que você nao seja programador, clicando no link <a href="https://zapdasgalaxias.com.br">Zap das Galáxias</a>. Obrigado =)
