@@ -9,7 +9,7 @@ Conheça o canal do Zap das Galáxias:
 
 ### Como usar?
 
-- git clone repositorio
+- git clone https://github.com/pedroherpeto/zapdasgalaxias.git
 - cd zapdasgalaxias
 - Rodar `npm install`
 - Rodar `npm start`
