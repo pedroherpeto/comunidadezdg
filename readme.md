@@ -4,12 +4,12 @@ Olá, essa é uma implementação da biblioteca <a href="https://github.com/pedr
 
 Conheça o canal da Comunidade ZDG:
 
-- <a href="https://www.youtube.com/channel/UCrPbAoQKz42Gm0mLdWatAEA">Zap das Galáxias</a>
+- <a href="https://www.youtube.com/channel/UCrPbAoQKz42Gm0mLdWatAEA">Comunidade ZDG</a>
 
 
 ### Como usar?
 
-- git clone https://github.com/pedroherpeto/zapdasgalaxias.git
+- git clone https://github.com/pedroherpeto/comunidadezdg.git
 - cd zapdasgalaxias
 - Rodar `npm install`
 - Rodar `npm start`
