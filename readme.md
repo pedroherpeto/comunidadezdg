@@ -10,7 +10,7 @@ Conheça o canal da Comunidade ZDG:
 ### Como usar?
 
 - git clone https://github.com/pedroherpeto/comunidadezdg.git
-- cd zapdasgalaxias
+- cd comunidadezdg
 - Rodar `npm install`
 - Rodar `npm start`
 - Abrir o browser no endereço `http://localhost:8000`
