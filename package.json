@@ -28,7 +28,7 @@
     "qrcode": "^1.4.4",
     "socket.io": "2.3.0",
     "util": "^0.12.4",
-    "whatsapp-web.js": "1.18.3"
+    "whatsapp-web.js": "1.19.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
