@@ -103,7 +103,7 @@ app.post('/zdg-message', [
     });
   }
 
-  const number = req.body.number;
+  const number = req.body.number.replace(/[^\d]/g, "");
   const numberDDI = number.substr(0, 2);
   const numberDDD = number.substr(2, 2);
   const numberUser = number.substr(-8, 8);
@@ -179,7 +179,7 @@ app.post('/zdg-media', [
     });
   }
 
-  const number = req.body.number;
+  const number = req.body.number.replace(/[^\d]/g, "");
   const numberDDI = number.substr(0, 2);
   const numberDDD = number.substr(2, 2);
   const numberUser = number.substr(-8, 8);
