@@ -259,6 +259,8 @@ client.on('message', async msg => {
   if (msg.type.toLowerCase() == "e2e_notification") return null;
   
   if (msg.body == "") return null;
+	
+  if (msg.from.includes("@g.us")) return null;
 
   if (msg.body !== null && msg.body === "1") {
     //msg.reply("*COMUNIDADE ZDG*\n\n🤪 _Usar o WPP de maneira manual é prejudicial a saúde_\r\n\r\nhttps://comunidadezdg.com.br/ \r\n\r\n⏱️ As inscrições estão *ABERTAS*\n\nAssista o vídeo abaixo e entenda porque tanta gente comum está economizando tempo e ganhando dinheiro explorando a API do WPP, mesmo sem saber nada de programação.\n\n📺 https://youtu.be/mr0BvO9quhw");
