@@ -257,7 +257,7 @@ client.on('message', async msg => {
   const nomeContato = msg._data.notifyName;
   let groupChat = await msg.getChat();
   
-  if (groupChat.isGroup) return null;
+  // if (groupChat.isGroup) return null;
 
   if (msg.type.toLowerCase() == "e2e_notification") return null;
   
