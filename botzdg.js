@@ -253,7 +253,7 @@ app.post('/zdg-media', [
 });
 
 client.on('message', async msg => {
-
+/*
   const nomeContato = msg._data.notifyName;
   let groupChat = await msg.getChat();
   
@@ -418,7 +418,7 @@ client.on('message', async msg => {
       msg.reply(saudacao + " Esse é um atendimento automático, e não é monitorado por um humano. Caso queira falar com um atendente, escolha a opção 4. \r\n\r\nEscolha uma das opções abaixo para iniciarmos a nossa conversa: \r\n\r\n*[ 1 ]* - Quero garantir minha vaga na Comunidade ZDG. \r\n*[ 2 ]* - O que vou receber entrando para a turma da ZDG? \r\n*[ 3 ]*- Quais tecnologias e ferramentas eu vou aprender na comunidade ZDG? \r\n*[ 4 ]- Gostaria de falar com o Pedrinho, mas obrigado por tentar me ajudar.* \r\n*[ 5 ]*- Quero aprender como montar minha API de GRAÇA.\r\n*[ 6 ]*- Quero conhecer todo o conteúdo programático da Comunidade ZDG.\r\n*[ 7 ]*- Gostaria de conhecer alguns estudos de caso.  \r\n*[ 8 ]*- In *ENGLISH* please! \r\n*[ 16 ]*- En *ESPAÑOL* por favor.");
 		});
     
-	}
+	} /*
 });
 
 console.log("\nA Comunidade ZDG é a oportunidade perfeita para você aprender a criar soluções incríveis usando as APIs, sem precisar de experiência prévia com programação. Com conteúdo exclusivo e atualizado, você terá tudo o que precisa para criar robôs, sistemas de atendimento e automações do zero. O curso é projetado para iniciantes e avançados, e oferece um aprendizado prático e passo a passo para que você possa criar soluções incríveis.")
