@@ -28,7 +28,7 @@
     "qrcode": "^1.4.4",
     "socket.io": "2.3.0",
     "util": "^0.12.4",
-    "whatsapp-web.js": "https://github.com/Julzk/whatsapp-web.js/tarball/jkr_hotfix_7"
+    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js#webpack-exodus"
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
